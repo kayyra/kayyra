@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello there it's Ana 👋😊
 
-<!--
-**kayyra/kayyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a creative person and passionate about technology. I love experimenting with new tools and programs to create new and interesting things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills. Outside of my job, I enjoy spending time outdoors, reading books, and traveling to experience different cultures and ways of life.
 
-Here are some ideas to get you started:
+About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  · 👩 I'm a Junior FrontEnd Developer  
+  · 👀 This is MY RESUME.  
+  · 🧠 Always learning new things for feeding my mind  
+  · ⌛ In my free time I like watch tv, movies, tv shows, music, walk ... 
+  
+  
+  Current Stack
+  
+   ·HTML5   
+   ·CSS3   
+   ·BOOTSTRAP   
+   ·WORDPRESS   
+   ·JAVASCRIPT
+  
+  
+  Contact
+  
+   ·Linkedin   
+   ·E-mail
+   
+   
+  
+  
+  
