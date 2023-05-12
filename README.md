@@ -1,8 +1,8 @@
-# Hello there it's Ana 👋😊
+<h1 align="center"> Hello there it's Ana  👋😊</h1> 
 
 I am a creative person and passionate about technology. I love experimenting with new tools and programs to create new and interesting things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills. Outside of my job, I enjoy spending time outdoors, reading books, and traveling to experience different cultures and ways of life.
 
-About me
+<h3 align="left">About me</h3>
 
   · 👩 I'm a Junior FrontEnd Developer  
   · 👀 This is MY RESUME.  
@@ -10,21 +10,20 @@ About me
   · ⌛ In my free time I like watch tv, movies, tv shows, music, walk ... 
   
   
-  Current Stack
+  Current Stack  
   
-   ·HTML5   
-   ·CSS3   
-   ·BOOTSTRAP   
-   ·WORDPRESS   
-   ·JAVASCRIPT
+ <h3 align="left">Current Stack</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
   
   
-  Contact
-  
-   ·Linkedin   
-   ·E-mail
+  <h3 align="left"> Contact </h3>
+   
+   <p align="left">
+   <a href="https://linkedin.com/in/ana-rodriguez-perez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-rodriguez-" height="30" width="40" /></a>
+</p>
    
    
+  
   
   
   
