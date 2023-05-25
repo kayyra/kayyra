@@ -6,7 +6,6 @@ I am a creative person and passionate about technology. I love experimenting wit
 
 <ul>
   <li>👩 I'm a Junior FrontEnd Developer</li>
-  <li>👀 This is MY RESUME</li>
   <li>🧠 Always learning new things for feeding my mind</li>
   <li>⌛ In my free time I like watch tv, movies, tv shows, music, walk...</li>
 </ul>
