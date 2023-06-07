@@ -1,6 +1,6 @@
 
 
-![welcome](https://github.com/kayyra/kayyra/assets/127655123/4288ea30-d55b-464e-9988-3b75e9155f4f)
+
 
 
 <h1 align="center"> Hello there it's Ana  👋😊</h1> 
