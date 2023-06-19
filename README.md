@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center"> Hello there it's Ana  👋😊</h1> 
+<h1 align="center"> Hello there! it's Ana  👋😊</h1> 
 
 I am a creative person and passionate about technology. I love experimenting with new tools and programs to create new and interesting things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills. Outside of my job, I enjoy spending time outdoors, reading books, and traveling to experience different cultures and ways of life.
 
