@@ -12,15 +12,15 @@ I am a creative person and passionate about technology. I love experimenting wit
 <ul>
   <li>👩 I'm a Junior FrontEnd Developer</li>
   <li>🧠 Always learning new things for feeding my mind</li>
+  <li>📫 <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</li>
   <li>⌛ In my free time I like watch tv, movies, tv shows, music, walk...</li>
   <li>🏆 BootCamp survivor!</li>
   <li>👩‍💻 Hackathon survivor!</li>
-  <li>📫 <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</li>
+  
 </ul>
  
   
- <h3 align="left">Current Stack</h3>
- 
+
 
  <h4 aling="left">🔨 Languages and Tools</h4>
  <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
