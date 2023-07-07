@@ -12,6 +12,7 @@ I am a creative person and passionate about technology. I love experimenting wit
 <ul>
   <li>👩 I'm a Junior FrontEnd Developer</li>
   <li>🧠 Always learning new things for feeding my mind</li>
+  <li>🗨️ Talk me about Git, Angular , HTML5, CSS3 and SASS/li>
   <li>📫 <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</li></a>
   <li>⌛ In my free time I like watch tv, movies, tv shows, music, walk...</li>
 <!--   <li>🏆 BootCamp survivor!</li> -->
