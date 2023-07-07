@@ -12,10 +12,10 @@ I am a creative person and passionate about technology. I love experimenting wit
 <ul>
   <li>👩 I'm a Junior FrontEnd Developer</li>
   <li>🧠 Always learning new things for feeding my mind</li>
-  <li>📫 <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</li>
+  <li>📫 <a href="https://mail.google.com/mail/u/0/#inbox">Gmail</li></a>
   <li>⌛ In my free time I like watch tv, movies, tv shows, music, walk...</li>
-  <li>🏆 BootCamp survivor!</li>
-  <li>👩‍💻 Hackathon survivor!</li>
+<!--   <li>🏆 BootCamp survivor!</li> -->
+<!--   <li>👩‍💻 Hackathon survivor!</li> -->
   
 </ul>
  
@@ -37,7 +37,7 @@ I am a creative person and passionate about technology. I love experimenting wit
   <h3 align="left"> Contact </h3>
    
   <p align="left">
-  <a href="https://linkedin.com/in/ana-rodriguez-perez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-rodriguez-" height="30" width="40" />
+  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-rodriguez-" height="30" width="40" />
 </a>
 </p> 
    
