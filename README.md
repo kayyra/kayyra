@@ -14,7 +14,7 @@ I am a creative person and passionate about technology. I love experimenting wit
   <li>🧠 Always learning new things for feeding my mind</li>
   <li>⌛ In my free time I like watch tv, movies, tv shows, music, walk...</li>
   <li>🏆 BootCamp survivor!</li>
-  <li>👩‍💻 Hackaton survivor!</li>
+  <li>👩‍💻 Hackathon survivor!</li>
 </ul>
  
   
