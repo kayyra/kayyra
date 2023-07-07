@@ -38,8 +38,9 @@ I am a creative person and passionate about technology. I love experimenting wit
   <h3 align="left"> Contact </h3>
    
   <p align="left">
-  <a href="https://linkedin.com/in/ana-rodriguez-perez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-rodriguez-" height="30" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/ana-rodriguez-perez-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-rodriguez-" height="30" width="40" />
+</a>
+</p> 
    
    
   
