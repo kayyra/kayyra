@@ -40,8 +40,8 @@ I am a creative person and passionate about technology. I love experimenting wit
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </p>
  
-
-  
+### :fire: My Stats :
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kayyra&theme=transparent)](https://git.io/streak-stats)
   <h3 align="left">Contact </h3>
    
   <p align="left">
